@@ -1,4 +1,4 @@
-# Developed this quzi game code using python
+# Developed this quiz game code using python
 
 
 *****Requirements to play this game*****
